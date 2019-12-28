@@ -7,7 +7,12 @@
 
 寫了一個物品修改器，可以在一開始就刷出"無塵劍"，和"金蠶王"等後期裝備。
 希望大家會喜歡 
-# 情懷 # 是個念舊的人
+##情懷 ##是個念舊的人
+
+
+Copy and run Pal98_editor.exe to the same folder as your Pal98 game folder.
+You could download Pal98 at https://steachs.com/archives/1975
+
 
 
 <img src="https://github.com/ChakoMoonFish/Pal98_editor/blob/master/Pal98_editor.PNG">
