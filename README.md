@@ -16,3 +16,6 @@ You could download Pal98 at https://steachs.com/archives/1975
 
 
 <img src="https://github.com/ChakoMoonFish/Pal98_editor/blob/master/Pal98_editor.PNG">
+
+<img src="https://github.com/ChakoMoonFish/Pal98_editor/blob/master/Pal98_editor2.PNG">
+
